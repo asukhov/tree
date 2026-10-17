@@ -286,7 +286,7 @@ This project is source-available.
 
 If you wish to use this software in a commercial product, SaaS platform, consultancy, or revenue-generating service, please contact:
 
-https://www.linkedin.com/in/aleksandr-sukhov/
+0xff5@protonmail.com
 
 Copyright (c) 2026 Aleksandr Sukhov
 All rights reserved.
