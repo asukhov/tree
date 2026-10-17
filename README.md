@@ -1,4 +1,4 @@
-# tree# Decision Tree Builder
+# Decision Tree Builder
 
 Decision Tree Builder is an interactive decision-tree and option-comparison tool delivered as a single, self-contained HTML file (`index.html`). You build one tree of options per workstream, note the pros, cons, outcome and cost of each option, flag blockers, tick the deliverables each option provides, and mark the path you actually chose. Press **Complete** to get a summary table with cost totals and deliverable coverage. You can then export everything, including a picture of the tree, to an Excel workbook and import it again later to carry on.
 
