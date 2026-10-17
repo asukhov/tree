@@ -284,9 +284,7 @@ The whole tool is one HTML file with inline CSS and JavaScript, no dependencies 
 
 This project is source-available.
 
-Commercial use is NOT permitted without a separate commercial licence.
-
-If you wish to use this software in a business, commercial product, SaaS platform, consultancy, or revenue-generating service, please contact:
+If you wish to use this software in a commercial product, SaaS platform, consultancy, or revenue-generating service, please contact:
 
 https://www.linkedin.com/in/aleksandr-sukhov/
 
